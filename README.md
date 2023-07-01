@@ -28,6 +28,6 @@
 
 - Estudante de Analise e Desenvolvimento de Sistemas na [Pontifícia Universidade Católica (PUC)](https://www.pucminas.br/destaques/Paginas/default.aspx)
 - Atualmente aprofundando meus conhecimentos em Java e C#
-- Challenger 1200 PDL 
+
 
 
